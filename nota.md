@@ -12,10 +12,10 @@ Puntos de evaluación:
   * Tabla 3x4: OK
   * Dos emojis: OK
   * Snippet de código en un commit separado: OK
-* Pantallazo de commits: OK
+* Pantallazo de commits: Subido por carga directa (no commit)
 * Hora de finalización en README.md: OK
 
-Nota final: 4.8
+Nota final: 4.5
 
 Te deseo una muy Feliz Navidad, y un 2027 lleno de sueños cumplidos
 y proyectos realizados! :christmas_tree: :champagne:
