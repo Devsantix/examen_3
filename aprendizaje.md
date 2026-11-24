@@ -1,6 +1,10 @@
 # Los aprendizajes del Curso 🚀
 
-## Resumen de habilidades y competencias
+## Resumen de lo aprendido en git
+bueno este curso me sirvio mucho para mejorar mis habilidades
+pude conocer comandos para crear archivos y codigo de pyhthon en git
+aparte pude aprender a sincronizar git con git hub ya que eso es vital
+en la vida de cualquier programador 
 
 - [x] Dominar comandos basicos de Git
 - [x] Sincronizar repositorios locales con GitHub
@@ -8,9 +12,9 @@
 
 | Categoria | Concepto | Estado |
 | :--- | :--- | :--- |
-| Versionamiento | Git Init y Commit | Completo |
-| Remotos | GitHub Push / Pull | Completo |
-| Formato | Markdown y GFM | Completo |
+| Version | Git Init y Commit | Completo |
+| En linea | GitHub Push / Pull | Completo |
+| Tipo | Markdown y GFM | Completo |
 
 Buen aprendizaje ✨
 
