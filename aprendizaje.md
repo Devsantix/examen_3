@@ -13,3 +13,6 @@
 | Formato | Markdown y GFM | Completo |
 
 Buen aprendizaje ✨
+
+```python
+print("codigo agregado en github")
